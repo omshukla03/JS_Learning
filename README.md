@@ -1,2 +1,2 @@
-# JS_P
-This is JavaScript Practise and Learning Repo
+# JS_Pracrise
+Here I Do Learning, Practice and Making Projects in JavaScript
